@@ -7,6 +7,8 @@ description = "pleme-auth-tokens library"
 repository = "https://github.com/pleme-io/pleme-auth-tokens"
 homepage = "https://github.com/pleme-io/pleme-auth-tokens"
 readme = "README.md"
+keywords = ["jwt", "tokens", "authentication", "jsonwebtoken", "claims"]
+categories = ["authentication"]
 
 [dependencies]
 jsonwebtoken = "9.3.0"
